@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class fetchfile {
 
-	public static String path;
+	public static String path = "";
 
 	fetchfile() throws Exception {
 
